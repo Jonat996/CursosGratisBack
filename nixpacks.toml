@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ['php81', 'perl', 'php81Packages.composer', 'nodejs-16_x', 'npm-8_x']
+nixPkgs = ['...','php81', 'perl', 'php81Packages.composer', 'nodejs-16_x', 'npm-8_x']
